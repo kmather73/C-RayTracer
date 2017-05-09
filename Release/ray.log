@@ -1,0 +1,32 @@
+﻿  getopt.cpp
+  main.cpp
+  RayTracer.cpp
+  CommandLineUI.cpp
+  debuggingView.cpp
+  debuggingWindow.cxx
+  glObjects.cpp
+  GraphicalUI.cpp
+  ModelerCamera.cpp
+  buffer.cpp
+  imageio.cpp
+  camera.cpp
+  light.cpp
+  material.cpp
+  ray.cpp
+  scene.cpp
+  Box.cpp
+  Cone.cpp
+  Cylinder.cpp
+  Sphere.cpp
+  Generating Code...
+  Compiling...
+  Square.cpp
+  trimesh.cpp
+  Parser.cpp
+  ParserException.cpp
+  Token.cpp
+  Tokenizer.cpp
+  TraceGLWindow.cpp
+  Generating Code...
+  ray.vcxproj -> C:\Users\kmath\Documents\CS\COMP 4490\A1\trace\trace_skel\Trace\.\Release\ray.exe
+  ray.vcxproj -> .\Release\ray.pdb (Full PDB)

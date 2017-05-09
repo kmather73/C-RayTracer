@@ -1,0 +1,69 @@
+﻿  getopt.cpp
+  main.cpp
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(576): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(598): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(848): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(243): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(267): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(397): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+  RayTracer.cpp
+  CommandLineUI.cpp
+  debuggingView.cpp
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(576): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(598): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(848): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+src\ui\debuggingView.cpp(85): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  debuggingWindow.cxx
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(576): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(598): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(848): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(243): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(267): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(397): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+  glObjects.cpp
+  GraphicalUI.cpp
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(576): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(598): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(848): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(243): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(267): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(397): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+  ModelerCamera.cpp
+  buffer.cpp
+  imageio.cpp
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5220): error C2065: 'GWL_USERDATA': undeclared identifier
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5380): error C2065: 'GWL_USERDATA': undeclared identifier
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5380): warning C4311: 'type cast': pointer truncation from 'cimg_library::CImgDisplay *' to 'LONG'
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5380): warning C4302: 'type cast': truncation from 'cimg_library::CImgDisplay *' to 'LONG'
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5381): error C2065: 'GWL_WNDPROC': undeclared identifier
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5381): warning C4311: 'type cast': pointer truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\src\fileio\CImg.h(5381): warning C4302: 'type cast': truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+  camera.cpp
+  light.cpp
+  material.cpp
+  ray.cpp
+  scene.cpp
+src\scene\scene.cpp(83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\scene\scene.cpp(84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Box.cpp
+  Cone.cpp
+  Cylinder.cpp
+  Sphere.cpp
+  Generating Code...
+  Compiling...
+  Square.cpp
+  trimesh.cpp
+src\SceneObjects\trimesh.cpp(32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\SceneObjects\trimesh.cpp(134): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Parser.cpp
+  ParserException.cpp
+  Token.cpp
+  Tokenizer.cpp
+  TraceGLWindow.cpp
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(576): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(598): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Widget.H(848): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(243): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(267): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\kmath\documents\cs\comp 4490\a1\trace\trace_skel\trace\fltk-1.3.3\fl\Fl_Menu_Item.H(397): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+  Generating Code...
