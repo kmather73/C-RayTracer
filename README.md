@@ -1,6 +1,6 @@
 # Recursive RayTracer in C++ and OpenMP
 
-I have implemented a recursive ray tracer that uses a [phong illumination model](https://en.wikipedia.org/wiki/Phong_reflection_model) with multiple lights sources, distance attenuation, refractions, and  shadows. The antialiasing method used is stochastic supersampling from a 2D Normal distribution. Inorder to speed things up I used a [k-d Tree](https://en.wikipedia.org/wiki/K-d_tree) as an acceleration data structure as well as [OpenMP](https://en.wikipedia.org/wiki/OpenMP) for multi-threading, note you may need to [enable](https://msdn.microsoft.com/en-us/library/fw509c3b.aspx) OpenMP in Visual Studio to take advantage of multiple cores.
+I have implemented a recursive ray tracer that uses a [phong illumination model](https://en.wikipedia.org/wiki/Phong_reflection_model) with multiple lights sources, distance attenuation, refractions, and  shadows. The antialiasing method used is stochastic supersampling from a 2D Normal distribution. In order to speed things up I used a [k-d Tree](https://en.wikipedia.org/wiki/K-d_tree) as an acceleration data structure as well as [OpenMP](https://en.wikipedia.org/wiki/OpenMP) for multi-threading, note you may need to [enable](https://msdn.microsoft.com/en-us/library/fw509c3b.aspx) OpenMP in Visual Studio to take advantage of multiple cores.
 
 
 ## Dependencies
